@@ -164,5 +164,5 @@ def home():
 
 
 if __name__ == "__main__":
-    app.debut = True
+    app.debug = True
     app.run()
